@@ -8,7 +8,9 @@ using System.Linq;
 using System.Threading.Tasks;
 
 namespace ProjGitHub
-{
+{/// <summary>
+/// linha 1
+/// </summary>
     public class Program
     {
         public static void Main(string[] args)
